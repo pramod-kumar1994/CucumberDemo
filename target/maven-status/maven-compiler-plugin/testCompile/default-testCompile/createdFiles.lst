@@ -1,0 +1,6 @@
+stepDefination\LoginSteps.class
+PageObject\LoginPage.class
+PageObject\Registration.class
+stepDefination\RegistraionSteps.class
+TestRunner\Run.class
+BasePage\BaseClass.class
